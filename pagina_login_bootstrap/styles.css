@@ -3,7 +3,9 @@ html, Body{
     width: 100%;
     display: flex;
     align-items: center;
+    background-image: url("purple.jpg");
 }
+
 
 /* body{
     display: flex;
