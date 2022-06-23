@@ -1,0 +1,21 @@
+html, Body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+/* body{
+    display: flex;
+    align-items: center;
+    
+} */
+
+.formlogin{
+    background-color: #4d004d;
+    color: white;
+    padding: 20px;
+    border: 1px solid black;
+    box-shadow: 3px 3px black;
+    border-radius: 20px;
+}
